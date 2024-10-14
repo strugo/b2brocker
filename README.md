@@ -49,18 +49,19 @@ Where txid is a required unique string field, amount is a number with 18-digit p
 
 Tech Stack:
 
-Python - 3.11+
-Database - MySQL
-API specification - JSON:API — A specification for building APIs in JSON (you are free to use the plugin https://django-rest-framework-json-api.readthedocs.io/en/stable/)
+- Python - 3.11+
+- Database - MySQL
+- API specification - JSON:API — A specification for building APIs in JSON (you are free to use the plugin https://django-rest-framework-json-api.readthedocs.io/en/stable/)
 
 Advantages:
 
-Test coverage
-SQLAlchemy migrations is an option
-Any linter usage
-Quick start app guide if you create your own docker-compose or Dockerfiles
-Comments in non-standard places in code
-Use database indexes if you think it’s advisable
+- Test coverage
+- SQLAlchemy migrations is an option
+- Any linter usage
+- Quick start app guide if you create your own docker-compose or Dockerfiles
+- Comments in non-standard places in code
+- Use database indexes if you think it’s advisable
+
 Leave a GitHub link to the repo. Please delete the repo after HR feedback
 
 [execution time limit] 4 seconds (sh)
